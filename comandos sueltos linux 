@@ -1,0 +1,6 @@
+#####
+
+
+#### curl
+ curl -opcion dominio
+    Es para descargar directamente contenido de una pagina web
